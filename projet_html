@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>page web porte folio</title>
+    <link rel="stylesheet" href="contact.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&family=Poppins:wght@300;400;600&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css" integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>  
+    <nav class="navbar">
+        <a href="#" class="logo">ZAK</a>
+        <div class="nav-links">
+            <ul>
+                <li class="active"><a href="home.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="work.html">Work</a></li>
+                <li><a href="resume.html">Resume</a></li>
+                <li><a href="contact.html">contact</a></li>
+            </ul>
+        </div>
+    </nav>
+<header> 
+</header>
+<div class="container">
+    <div class="title">
+    <p class="quest">Still got a question?</p>
+</div>
+<div class="form">
+    <p class="demande">Contact me</p>
+    <input type="text" placeholder="First name" class="info">
+    <input type="text" placeholder="Last name" class="info">
+    <input type="email" placeholder="test@test.com" class="info">
+    <input type="text" placeholder="Message.." class="long"><br>
+    <button>Send</button>
+</div>
+</div>
+<footer>
+    <div class="pied">
+    <p class="auteur">Author: Bakirou Zakaria</p>
+    <p><a href="mailto:taz@example.com" class="colo">Zak@example.com</a></p>
+  </footer>
+    </div>
+</body>
+</html>
